@@ -1,0 +1,10 @@
+d:\project\c#\WorkWithBook\EFrCoreMvc2\1\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.csproj.CoreCompileInputs.cache
+d:\project\c#\WorkWithBook\EFrCoreMvc2\1\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.AssemblyInfoInputs.cache
+d:\project\c#\WorkWithBook\EFrCoreMvc2\1\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.AssemblyInfo.cs
+d:\project\c#\WorkWithBook\EFrCoreMvc2\1\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.deps.json
+d:\project\c#\WorkWithBook\EFrCoreMvc2\1\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.runtimeconfig.json
+d:\project\c#\WorkWithBook\EFrCoreMvc2\1\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.runtimeconfig.dev.json
+d:\project\c#\WorkWithBook\EFrCoreMvc2\1\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.dll
+d:\project\c#\WorkWithBook\EFrCoreMvc2\1\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.pdb
+d:\project\c#\WorkWithBook\EFrCoreMvc2\1\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.dll
+d:\project\c#\WorkWithBook\EFrCoreMvc2\1\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.pdb
