@@ -8,3 +8,4 @@ d:\project\c#\WorkWithBook\EFrCoreMvc2\1\PartyInvites\PartyInvites\bin\Debug\net
 d:\project\c#\WorkWithBook\EFrCoreMvc2\1\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.pdb
 d:\project\c#\WorkWithBook\EFrCoreMvc2\1\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.dll
 d:\project\c#\WorkWithBook\EFrCoreMvc2\1\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.pdb
+d:\project\c#\WorkWithBook\EFrCoreMvc2\1\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.csprojAssemblyReference.cache

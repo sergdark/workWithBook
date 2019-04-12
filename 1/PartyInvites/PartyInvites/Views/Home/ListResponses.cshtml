@@ -9,11 +9,11 @@
         </div>
         @foreach (GuestResponse r in Model)
         {
-            <div class="row р-1">
-                <div class="col">@r.Name</div>
-                <div class="col">@r.Email</div>
-                <div class="col">@r.Phone</div>
-                <div class="col">@r.WillAttend == true ? "Yes" :"No" </div>
-            </div>
+        <div class="row р-1">
+            <div class="col">@r.Name</div>
+            <div class="col">@r.Email</div>
+            <div class="col">@r.Phone</div>
+            <div class="col">@(r.WillAttend == true ? "Yes" : "No")</div>
+        </div>
         }
     </div>
